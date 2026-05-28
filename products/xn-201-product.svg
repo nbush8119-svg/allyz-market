@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 720">
+  <rect width="960" height="720" fill="#eeeae2"/>
+  <rect x="150" y="115" width="660" height="490" rx="18" fill="#ffffff"/>
+  <rect x="260" y="165" width="250" height="355" rx="16" fill="#f7f8f3" stroke="#d7d7cc" stroke-width="5"/>
+  <rect x="290" y="205" width="190" height="245" rx="12" fill="#dce8e2"/>
+  <text x="313" y="340" fill="#18211f" font-family="Arial" font-size="34" font-weight="900">XINLONG</text>
+  <text x="555" y="335" fill="#52665c" font-family="Arial" font-size="24">minor pressure mark</text>
+  <text x="310" y="560" fill="#52665c" font-family="Arial" font-size="22">PRODUCT PHOTO DEMO</text>
+</svg>

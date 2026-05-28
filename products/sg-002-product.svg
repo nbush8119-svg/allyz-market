@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 720">
+  <rect width="960" height="720" fill="#e8e3dc"/>
+  <rect x="130" y="110" width="700" height="500" rx="18" fill="#ffffff"/>
+  <rect x="180" y="155" width="260" height="340" rx="16" fill="#57415f"/>
+  <rect x="470" y="190" width="145" height="230" rx="12" fill="#f7f5ef" stroke="#c9c6bd" stroke-width="5"/>
+  <rect x="640" y="210" width="130" height="190" rx="12" fill="#ff7f66"/>
+  <rect x="210" y="190" width="200" height="80" rx="10" fill="#b7f0cf"/>
+  <text x="222" y="238" fill="#18211f" font-family="Arial" font-size="28" font-weight="900">SEALED SET</text>
+  <text x="205" y="548" fill="#52665c" font-family="Arial" font-size="24">PRODUCT PHOTO DEMO · warehouse intake</text>
+</svg>

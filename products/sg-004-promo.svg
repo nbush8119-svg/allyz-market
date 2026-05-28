@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 720">
+  <rect width="960" height="720" fill="#fbf5ef"/>
+  <rect x="110" y="100" width="740" height="520" rx="22" fill="#ffffff"/>
+  <circle cx="245" cy="240" r="105" fill="#ff7f66" opacity=".35"/>
+  <circle cx="690" cy="440" r="135" fill="#b7f0cf" opacity=".6"/>
+  <rect x="250" y="170" width="210" height="260" rx="18" fill="#18211f" transform="rotate(-8 355 300)"/>
+  <rect x="500" y="210" width="210" height="260" rx="18" fill="#57415f" transform="rotate(7 605 340)"/>
+  <text x="210" y="540" fill="#18211f" font-family="Arial" font-size="46" font-weight="900">Fanmade Sticker Pack</text>
+  <text x="220" y="585" fill="#52665c" font-family="Arial" font-size="22">非官方饭制 · PROMO DEMO IMAGE</text>
+</svg>

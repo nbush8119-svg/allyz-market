@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 720">
+  <rect width="960" height="720" fill="#f6f7f2"/>
+  <rect x="100" y="90" width="760" height="540" rx="22" fill="#ffffff"/>
+  <rect x="170" y="145" width="280" height="400" rx="18" fill="#dce8e2"/>
+  <rect x="520" y="145" width="260" height="400" rx="18" fill="#18211f"/>
+  <text x="210" y="320" fill="#18211f" font-family="Arial" font-size="42" font-weight="900">XINLONG</text>
+  <text x="555" y="320" fill="#b7f0cf" font-family="Arial" font-size="38" font-weight="900">EUPHORIA</text>
+  <text x="195" y="585" fill="#52665c" font-family="Arial" font-size="22">PROMO DEMO IMAGE</text>
+</svg>

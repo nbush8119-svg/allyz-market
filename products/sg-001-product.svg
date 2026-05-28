@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 720">
+  <rect width="960" height="720" fill="#ebe7de"/>
+  <rect x="120" y="90" width="720" height="540" rx="18" fill="#ffffff"/>
+  <rect x="180" y="125" width="300" height="440" rx="20" fill="#f9faf7" stroke="#d8d8d0" stroke-width="6"/>
+  <image href="/sanghyeon-focus.png" x="205" y="155" width="250" height="300" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="205" y="480" width="250" height="42" rx="10" fill="#18211f"/>
+  <text x="245" y="508" fill="#b7f0cf" font-family="Arial" font-size="22" font-weight="700">POB CARD</text>
+  <rect x="535" y="170" width="250" height="320" rx="16" fill="#f3f4f0" stroke="#d8d8d0" stroke-width="5"/>
+  <text x="583" y="305" fill="#18211f" font-family="Arial" font-size="32" font-weight="900">BACK</text>
+  <text x="558" y="350" fill="#52665c" font-family="Arial" font-size="23">Euphoria</text>
+  <text x="520" y="565" fill="#52665c" font-family="Arial" font-size="22">PRODUCT PHOTO DEMO</text>
+</svg>

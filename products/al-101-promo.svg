@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 720">
+  <rect width="960" height="720" fill="#f5f7f4"/>
+  <rect x="90" y="80" width="780" height="560" rx="24" fill="#18211f"/>
+  <path d="M495 155 C610 210 625 395 502 500 C380 395 396 210 495 155Z" fill="#b7f0cf"/>
+  <rect x="470" y="475" width="50" height="115" rx="20" fill="#ffffff"/>
+  <circle cx="495" cy="315" r="120" fill="none" stroke="#ffffff" stroke-width="18"/>
+  <text x="140" y="170" fill="#ffffff" font-family="Arial" font-size="54" font-weight="900">ALD1 LIGHT STICK</text>
+  <text x="140" y="220" fill="#b7f0cf" font-family="Arial" font-size="26">official goods · PROMO DEMO IMAGE</text>
+</svg>

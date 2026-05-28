@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 720">
+  <rect width="960" height="720" fill="#f6f7f2"/>
+  <rect x="80" y="70" width="800" height="580" rx="22" fill="#18211f"/>
+  <circle cx="745" cy="178" r="88" fill="#b7f0cf"/>
+  <rect x="130" y="120" width="330" height="470" rx="24" fill="#ffffff"/>
+  <rect x="160" y="150" width="270" height="330" rx="18" fill="#dce8e2"/>
+  <image href="/sanghyeon-focus.png" x="160" y="150" width="270" height="330" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="160" y="506" width="270" height="44" rx="12" fill="#ff7f66"/>
+  <text x="190" y="535" fill="#ffffff" font-family="Arial" font-size="24" font-weight="700">Mnet Plus POB</text>
+  <text x="510" y="250" fill="#ffffff" font-family="Arial" font-size="54" font-weight="900">SANGHYEON</text>
+  <text x="510" y="310" fill="#b7f0cf" font-family="Arial" font-size="36" font-weight="700">Euphoria Photocard</text>
+  <text x="510" y="380" fill="#ffffff" opacity=".78" font-family="Arial" font-size="24">PROMO DEMO IMAGE</text>
+</svg>

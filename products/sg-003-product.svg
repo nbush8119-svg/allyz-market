@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 720">
+  <rect width="960" height="720" fill="#eeeae2"/>
+  <rect x="110" y="120" width="740" height="480" rx="18" fill="#ffffff"/>
+  <rect x="175" y="180" width="280" height="340" rx="16" fill="#f7f8f3" stroke="#d7d7cc" stroke-width="5"/>
+  <image href="/sanghyeon-focus.png" x="200" y="205" width="230" height="260" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="510" y="175" width="260" height="350" rx="16" fill="#dfe9e3"/>
+  <text x="555" y="330" fill="#18211f" font-family="Arial" font-size="34" font-weight="900">ALBUM</text>
+  <text x="560" y="380" fill="#52665c" font-family="Arial" font-size="24">random card</text>
+  <text x="230" y="560" fill="#52665c" font-family="Arial" font-size="22">PRODUCT PHOTO DEMO</text>
+</svg>
